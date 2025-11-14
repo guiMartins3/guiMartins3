@@ -19,14 +19,14 @@
 
 ---
 
-<div> 
+<div style="display: inline-block;> 
   <span> 
     <a href="https://github.com/guiMartins3"> 
      <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=guiMartins3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiMartins3&layout=compact&langs_count=16&theme=dark"/> 
     </a> 
   </span> 
-    <img width="185" height="185" align="center" src="https://i.pinimg.com/originals/6a/ff/9a/6aff9a8eb394072767356b385b1ed9c5.gif"/> 
+    <img width="187" height="187" align="center" src="https://i.pinimg.com/originals/6a/ff/9a/6aff9a8eb394072767356b385b1ed9c5.gif"/> 
 </div>
 
 
