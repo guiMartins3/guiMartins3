@@ -19,14 +19,14 @@
 
 ---
 
-<div>
-  <span>
-    <a href="https://github.com/guiMartins3">
-      <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=guiMartins3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiMartins3&layout=compact&langs_count=16&theme=dark"/>   
-    </a>
-  </span>
-    <img width="150" height="200" style="vertical-align:middle;" src="https://i.pinimg.com/originals/6a/ff/9a/6aff9a8eb394072767356b385b1ed9c5.gif"/>
+<div> 
+  <span> 
+    <a href="https://github.com/guiMartins3"> 
+     <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=guiMartins3&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+     <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiMartins3&layout=compact&langs_count=16&theme=dark"/> 
+    </a> 
+  </span> 
+    <img width="180" height="180" align="right" src="https://i.pinimg.com/originals/6a/ff/9a/6aff9a8eb394072767356b385b1ed9c5.gif"/> 
 </div>
 
 
